@@ -1,7 +1,9 @@
+
+[![Watch the video](https://raw.githubusercontent.com/codingwithASM/DigitDetect-AI/refs/heads/main/video.mp4)]
+
 # Handwritten_digit_recognition
 This is a repository for my project on Handwritten Digit Classification .
 
-https://github.com/user-attachments/assets/4da53efb-abfc-4d69-b9a6-5434aad5291c
 
 ## If you want to run the project, you simply need to download the **"Handwritten_digit_classification_complete_file.ipynb"** and run it in google colab.
 Files such as ipynb files used for training models ,trained models and images are placed in **InternshipProject** folder. 
