@@ -1,8 +1,12 @@
 # Handwritten_digit_recognition
 This is a repository for my project on Handwritten Digit Classification .
 
-#Directory Structure for running code
-# ***Directory Structure***
+## If you want to run the project, you simply need to download the **"Handwritten_digit_classification_complete_file.ipynb"** and run it in google colab.
+Files such as ipynb files used for training models ,trained models and images are placed in **InternshipProject** folder. 
+
+**required_files.zip** contains these files in zip format.   
+
+# Directory Structure Created on running **"Handwritten_digit_classification_complete_file.ipynb"**
 ```
 your_project_folder/
 ├── app.py                      # Your main Flask application file
@@ -15,8 +19,8 @@ your_project_folder/
 │   ├── tokenizer_config.json
 │   └── label_encoder.json      # Encoded labels for the chatbot model
 │
-├── ml_model/                   # Folder for your DigitDetect ML model
-│   └── mnist_cnn_model.h5      # Your handwritten digit recognition model
+├── mnist_cnn_model.h5          # Your handwritten digit recognition model
+│   
 │
 ├── quantized_chatbot_model.onnx # Your ONNX-format chatbot model
 ├── new_json.json               # JSON file containing chatbot responses
