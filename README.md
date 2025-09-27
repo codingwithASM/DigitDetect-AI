@@ -1,6 +1,8 @@
 # Handwritten_digit_recognition
 This is a repository for my project on Handwritten Digit Classification .
 
+https://github.com/user-attachments/assets/abd9b18b-c993-4552-917a-a3a5c0b99514
+
 ## If you want to run the project, you simply need to download the **"Handwritten_digit_classification_complete_file.ipynb"** and run it in google colab.
 Files such as ipynb files used for training models ,trained models and images are placed in **InternshipProject** folder. 
 
