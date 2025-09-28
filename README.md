@@ -1,12 +1,17 @@
+
+![DigitDetect AI_Intelligent Handwriting Recognition](https://github.com/user-attachments/assets/b829ce9d-7656-4079-80d8-eda86c183a7e)
+
+
 # Handwritten_digit_recognition
 This is a repository for my project on Handwritten Digit Classification .
+
 
 ## If you want to run the project, you simply need to download the **"Handwritten_digit_classification_complete_file.ipynb"** and run it in google colab.
 Files such as ipynb files used for training models ,trained models and images are placed in **InternshipProject** folder. 
 
 **required_files.zip** contains these files in zip format.   
 
-# Directory Structure Created on running **"Handwritten_digit_classification_complete_file.ipynb"**
+# This directory structure  will be created on running **"Handwritten_digit_classification_complete_file.ipynb"**
 ```
 your_project_folder/
 ├── app.py                      # Your main Flask application file
